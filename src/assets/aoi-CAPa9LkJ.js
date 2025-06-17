@@ -1,0 +1,1 @@
+import{Z as e}from"./index-B3PZsRwT.js";function r(r){return e({url:"http://192.168.188.255:8080/one-code-fileReader/list",params:r})}function a(r){return e({url:"/qms/oneCodeFileReader/findDetail",params:r})}function n(r){return e({url:"/qms/oneCodeFileReader/list",params:r})}export{a,n as b,r as g};
