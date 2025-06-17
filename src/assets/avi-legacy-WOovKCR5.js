@@ -1,0 +1,1 @@
+System.register(["./index-legacy-BH1Y34Mi.js"],(function(t,n){"use strict";var e;return{setters:[function(t){e=t.Z}],execute:function(){t({a:function(t,n){return e({url:"/qms/".concat(n,"/list"),params:t})},g:function(t,n){return e({url:"/qms/".concat(n,"/findDetail"),params:t})}})}}}));
