@@ -1,0 +1,1 @@
+import{Z as a}from"./index-B3PZsRwT.js";function r(r,n){return a({url:"/qms/".concat(n,"/findDetail"),params:r})}function n(r,n){return a({url:"/qms/".concat(n,"/list"),params:r})}export{n as a,r as g};
