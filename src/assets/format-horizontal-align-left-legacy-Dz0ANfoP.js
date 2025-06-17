@@ -1,0 +1,1 @@
+System.register([],(function(e,t){"use strict";return{execute:function(){e("default","data:image/svg+xml,%3csvg%20xmlns='http://www.w3.org/2000/svg'%20width='32'%20height='32'%20viewBox='0%200%2024%2024'%3e%3cpath%20fill='currentColor'%20d='M11%2016v-3h10v-2H11V8l-4%204zm-8%204h2V4H3z'/%3e%3c/svg%3e")}}}));
